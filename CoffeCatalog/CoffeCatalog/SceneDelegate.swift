@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  memoIleKahveSaati
+//  CoffeCatalog
 //
 //  Created by Emre Özbağdatlı on 28.09.2022.
 //
