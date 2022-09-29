@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E215E8628E4959E00EAB1DA /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E215E8528E4959E00EAB1DA /* DetailsViewController.swift */; };
 		1E5BBCA328E481DA00CA1094 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5BBCA228E481DA00CA1094 /* AppDelegate.swift */; };
 		1E5BBCA528E481DA00CA1094 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5BBCA428E481DA00CA1094 /* SceneDelegate.swift */; };
 		1E5BBCA728E481DA00CA1094 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5BBCA628E481DA00CA1094 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1E215E8528E4959E00EAB1DA /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 		1E5BBC9F28E481DA00CA1094 /* CoffeCatalog.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoffeCatalog.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E5BBCA228E481DA00CA1094 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1E5BBCA428E481DA00CA1094 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				1E5BBCA228E481DA00CA1094 /* AppDelegate.swift */,
 				1E5BBCA428E481DA00CA1094 /* SceneDelegate.swift */,
 				1E5BBCA628E481DA00CA1094 /* ViewController.swift */,
+				1E215E8528E4959E00EAB1DA /* DetailsViewController.swift */,
 				1E5BBCA828E481DA00CA1094 /* Main.storyboard */,
 				1E5BBCAB28E481DB00CA1094 /* Assets.xcassets */,
 				1E5BBCAD28E481DB00CA1094 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				1E5BBCA728E481DA00CA1094 /* ViewController.swift in Sources */,
 				1E5BBCA328E481DA00CA1094 /* AppDelegate.swift in Sources */,
 				1E5BBCA528E481DA00CA1094 /* SceneDelegate.swift in Sources */,
+				1E215E8628E4959E00EAB1DA /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
