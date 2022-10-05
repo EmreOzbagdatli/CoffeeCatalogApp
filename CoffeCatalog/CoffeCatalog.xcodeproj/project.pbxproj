@@ -14,6 +14,7 @@
 		1E5BBCAA28E481DA00CA1094 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E5BBCA828E481DA00CA1094 /* Main.storyboard */; };
 		1E5BBCAC28E481DB00CA1094 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E5BBCAB28E481DB00CA1094 /* Assets.xcassets */; };
 		1E5BBCAF28E481DB00CA1094 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E5BBCAD28E481DB00CA1094 /* LaunchScreen.storyboard */; };
+		1E5C593A28EDBF81009C6C61 /* HomeCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5C593928EDBF81009C6C61 /* HomeCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1E5BBCAB28E481DB00CA1094 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E5BBCAE28E481DB00CA1094 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1E5BBCB028E481DB00CA1094 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1E5C593928EDBF81009C6C61 /* HomeCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				1E5BBCAB28E481DB00CA1094 /* Assets.xcassets */,
 				1E5BBCAD28E481DB00CA1094 /* LaunchScreen.storyboard */,
 				1E5BBCB028E481DB00CA1094 /* Info.plist */,
+				1E5C593928EDBF81009C6C61 /* HomeCollectionViewCell.swift */,
 			);
 			path = CoffeCatalog;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				1E5BBCA328E481DA00CA1094 /* AppDelegate.swift in Sources */,
 				1E5BBCA528E481DA00CA1094 /* SceneDelegate.swift in Sources */,
 				1E215E8628E4959E00EAB1DA /* DetailsViewController.swift in Sources */,
+				1E5C593A28EDBF81009C6C61 /* HomeCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
